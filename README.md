@@ -113,4 +113,4 @@ TBD
 
 ## Reference
 
-* [Repository](https://github.com/icoxfog417/awesome-financial-nlp)
+* [awesome-financial-nlp](https://github.com/icoxfog417/awesome-financial-nlp)
