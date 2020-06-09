@@ -83,6 +83,7 @@ FinSBD'2 is split into two sub-tasks:
 ### Semantic Representations
 
 * [FinSim in FinNLP 2020](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp2020/shared-task-finsim?authuser=0)
+
 In this task, participants will be given a list of carefully selected terms from the Financial domain such as “European depositary receipt”, “Interest rate swaps” and will be asked to design a system which can automatically classify them into the most relevant hypernym (or top-level) concept in an external ontology. For example, given the set of concepts “Bonds”, “Unclassified”, “Share”, “Loan”, the most relevant hypernym of “European depositary receipt” is “Share”.
 
 Participants will be given a large corpus of in-domain data to facilitate learning semantic representations as well as a set of concepts extracted from an ontology ([The Financial Industry Business Ontology (FIBO)](https://spec.edmcouncil.org/fibo/)).
