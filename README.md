@@ -7,6 +7,7 @@ The research and progress of Natural Language Processing (NLP) in Finance Domain
 
 * FinIR (SIGIR): Information Retrieval in Finance 
   * [2020](https://finir2020.github.io/)
+  
 * FNP (COLING): Financial Narrative Processing
   * [2020](http://wp.lancs.ac.uk/cfie/fnp2020/)
   * [2019](https://wp.lancs.ac.uk/cfie/fnp2019/)
@@ -15,16 +16,21 @@ The research and progress of Natural Language Processing (NLP) in Finance Domain
 * FinNLP(IJCAI): Financial Technology and Natural Language Processing
   * [2020](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp2020/)
   * [2019](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/home)
+  
 * KDF (AAAI): Knowledge Discovery from Unstructured Data in Financial Services
   * [2020](https://aaai-kdf2020.github.io/)
+  
 * ECONLP (EMNLP): Economics and Natural Language 
   * [2019](https://sites.google.com/view/econlp-2019)
   * [2018](https://julielab.de/econlp/2018/)
+  
 * Robust AI in FS (NeurIPS)
   * [2019](https://sites.google.com/view/robust-ai-in-fs-2019/home)
+  
 * ADF (KDD): Anomaly Detection in Finance
   * [2019](https://sites.google.com/view/kdd-adf-2019)  
   * [2017](https://sites.google.com/view/kdd-adf-2017)
+  
 * FiQA (WWW): Financial Opinion Mining and Question Answering
   * [2018](https://sites.google.com/view/fiqa/home)
   
@@ -39,7 +45,7 @@ There are various NLP tasks that have been developed in financial domain.
 
 Each example sentence is classifed into a positive, negative or neutral category by considering only the information explicitly available in the given sentence. Since the study is focused only on financial and economic domains, the sentences are considered from the view point of an investor only; i.e. whether the news may have positive, negative or neutral influence on the stock price. As a result, sentences which have a sentiment that is not relevant from an economic or financial perspective are considered neutral.
 
-* [Aspect-based Financial Sentiment Analaysi](https://sites.google.com/view/fiqa/home)
+* [Aspect-based Financial Sentiment Analaysis](https://sites.google.com/view/fiqa/home)
 
 Given a text instance in the financial domain (microblog message, news statement or headline) in English, detect the target aspects which are mentioned in the text (from a pre-defined list of aspect classes) and predict the sentiment score for each of the mentioned targets. Sentiment scores will be defined using continuous numeric values ranged from -1(negative) to 1(positive). 
 
@@ -156,7 +162,7 @@ Participants will be given a large corpus of in-domain data to facilitate learni
 - Customer Engagment
 - Risk Management 
 - Compliance Check
-- ...
+- TBD
 
 ## Reference
 
